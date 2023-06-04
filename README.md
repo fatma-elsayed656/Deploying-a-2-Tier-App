@@ -1,6 +1,7 @@
 # Terraform-project
 Terraform: Deploying a 2-Tier App
 Scenario:
+
 1.Provision a VPC with IGW and route tables
 2.Provision Two subnets (Public and Private) inside the VPC
 3.Provision an EC2 instance (APP) inside the public subnet
